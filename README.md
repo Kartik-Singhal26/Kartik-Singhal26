@@ -19,7 +19,7 @@ Contact me via my mail below, I'm always excited about new opportunities and peo
 
 
 ---
-<a href="mailto:kartiksinghal35@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>. 
+<a href="mailto:kartiksinghal35@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>. 
 <a href="https://www.instagram.com/kaaaaaaartik/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>.
 <a href="https://twitter.com/_Kaaartik_"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>.
 <a href="https://www.linkedin.com/in/kartik-singhal26/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>.
