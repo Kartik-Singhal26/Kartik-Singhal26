@@ -11,7 +11,7 @@ I'm a engineer interested in everything related to Atoms, Bits and Bytes. Apart 
 - :factory: I am building my own makerspace to play around with prototyping and development technologies such as 3d Printing, DIY robots and over-engineered cool looking projects.
 - :dart: Apart from my projects I try to find new research topics and problems. Currently pursuing research projects in Control Systems and Intelligent Control Techniques, Machine Learning for Industrial Problems, Optimization algorithms and 3d printing.
 
-Contact me via [email](mailto:kartiksinghal35@gmail.com). I'm always excited about new opportunities and people.
+Contact me via my mail below, I'm always excited about new opportunities and people.
 
 [![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik-Singhal26)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Singhal26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,4 +19,9 @@ Contact me via [email](mailto:kartiksinghal35@gmail.com). I'm always excited abo
 
 
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/_Kaaartik_?label=Follow&style=social)](https://twitter.com/_Kaaartik_)
+<a href="mailto:kartiksinghal35@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>. 
+<a href="https://www.instagram.com/kaaaaaaartik/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>.
+<a href="https://twitter.com/_Kaaartik_"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>.
+<a href="https://www.linkedin.com/in/kartik-singhal26/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>.
+<a href="https://scholar.google.com/citations?user=rBphoDsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=Google_Scholar&logoColor=white"/></a>.
+
