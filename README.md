@@ -11,7 +11,7 @@ I'm a engineer interested in everything related to Atoms, Bits and Bytes. Apart 
 - :factory: I am building my own makerspace to play around with prototyping and development technologies such as 3d Printing, DIY robots and over-engineered cool looking projects.
 - :dart: Apart from my projects I try to find new research topics and problems. Currently pursuing research projects in Control Systems and Intelligent Control Techniques, Machine Learning for Industrial Problems, Optimization algorithms and 3d printing.
 
-Contact me via [email](kartiksinghal35@gmail.com). I'm always excited about new opportunities and people.
+Contact me via [email](mailto:kartiksinghal35@gmail.com). I'm always excited about new opportunities and people.
 
 [![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik-Singhal26)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Singhal26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
