@@ -4,7 +4,7 @@
 **Kartik-Singhal26/bio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a engineer interested in everything related to Atoms, Bits and Bytes. Apart from making and breaking stuff, I spend extensive time in curating Spotify playlists, collecting books and exploring food around my place.
+I'm a engineer interested in everything related to atoms, bits and bytes. Apart from making and breaking stuff, I spend extensive time in curating Spotify playlists, collecting books and exploring food around my place.
 
 - 🎓 I completed my undergraduate degree from [Netaji Subhas Institute of Technology](http://www.nsit.ac.in/) as a B.E. in Manufacturing Processes and Automation Engineering in May 2021. 
 - :beginner: I will be joining the warehouse automation industry with [Addverb](https://addverb.com/) in August 2021.
