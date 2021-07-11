@@ -8,7 +8,7 @@ I'm an engineer interested in everything related to atoms, bits and bytes. Apart
 
 - 🎓 I completed my undergraduate degree from [Netaji Subhas Institute of Technology](http://www.nsit.ac.in/) as a B.E. in Manufacturing Processes and Automation Engineering in May 2021. 
 - :beginner: I will be joining the warehouse automation industry with [Addverb](https://addverb.com/) in August 2021.
-- :factory: I am building my own makerspace to play around with prototyping and development technologies such as 3d Printing, DIY robots and over-engineered fun projects.
+- :factory: I am building my own makerspace to play around with prototyping and development technologies such as 3D Printing, DIY robots and over-engineered fun projects.
 - :dart: Apart from my projects I try to find new research topics and problems. Currently pursuing research projects in Control Systems and Intelligent Control Techniques, Machine Learning for Industrial Problems, Optimization Algorithms and 3D Printing.
 
 Contact me via my mail, kartiksinghal35@gmail.com, I'm always excited about new opportunities and people.
